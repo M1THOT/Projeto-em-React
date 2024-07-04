@@ -7,7 +7,7 @@ Rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de Rea
 
 ## 🔨 Funcionalidades do projeto
 
-Nesse curso será desenvolvido a página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
+página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -22,20 +22,6 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `useState`: Hook no React que permite adicionar estado a componentes funcionais.
 - `Manipulação de eventos`: Ação de responder a interações do usuário, como cliques e teclas pressionadas, em aplicações web.
 
-## 📁 Acesso ao projeto
+- ## 🎨 Figma
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/MonicaHillman/3492-React-componentesi/tree/projeto-base) ou [baixá-lo](https://github.com/MonicaHillman/3492-React-componentes/archive/refs/heads/projeto-base.zip).
-
-## 🎨 Figma
-
-Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
-
-## 🛠️ Abrir e rodar o projeto
-
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na tela inicial da aplicação, vá em File / Arquivos e:
-
-- **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
-
-Você pode abrir diretamente o arquivo index.html no seu navegador ou usar uma extensão como o ``Live Server``.
+ Figma da aplicação: [](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
